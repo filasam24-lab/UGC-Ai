@@ -3,7 +3,14 @@
 A single 10s vertical spot in the style of a broadcast product commercial: hero product,
 dark studio void, beam of light, magnetic assembly, seamless loop. No people, no voiceover.
 
-**Final video (text burned in):**
+**Final video — SEO cut (use this one):**
+https://d2ol7oe51mr4n9.cloudfront.net/user_3G3dt4B20P2XbJ6PQqKhDxgXLeb/4710429f-2786-4311-abd6-0a2d5089ddd8.mp4
+
+Subtitle line reads `RATCHET SCREWDRIVER SET` so TikTok's OCR indexes the actual search term.
+The spot has no speech, so it produces no ASR signal — on-screen text and the caption are the
+only keyword signals it emits. See `../SEO-and-hashtags.md`.
+
+**First cut** (subtitle read `RATCHET + BIT SET` — stylish but not a search term):
 https://d2ol7oe51mr4n9.cloudfront.net/user_3G3dt4B20P2XbJ6PQqKhDxgXLeb/df5bfc20-7356-4001-aaae-0c3b9b4b8f33.mp4
 
 **Clean plate (no text), if you want to re-cut the copy:**
@@ -31,7 +38,7 @@ count, and the shipping term, all read directly off the listing.
 
 | Time | Action | On-screen text |
 |---|---|---|
-| 0–2.5s | Case descends in the light column, bits drifting in orbit | `24 IN 1` / `RATCHET + BIT SET` |
+| 0–2.5s | Case descends in the light column, bits drifting in orbit | `24 IN 1` / `RATCHET SCREWDRIVER SET` |
 | 2.5–5s | Bits streak inward and snap magnetically into the tray | `24 MAGNETIC BITS` / `SNAP INTO PLACE` |
 | 5–7.5s | Ratchet lifts, spins, settles; dust shockwave rings out | — |
 | 7.5–10s | Camera pulls back and orbits to the exact opening framing | `WAS £27.96` / `NOW £12.98` / `SAVE 54%` → `FREE SHIPPING` / `TAP THE YELLOW CART` |
