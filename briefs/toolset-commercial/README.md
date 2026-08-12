@@ -3,20 +3,23 @@
 A single 10s vertical spot in the style of a broadcast product commercial: hero product,
 dark studio void, beam of light, magnetic assembly, seamless loop. No people, no voiceover.
 
-**Final video — SEO cut (use this one):**
-https://d2ol7oe51mr4n9.cloudfront.net/user_3G3dt4B20P2XbJ6PQqKhDxgXLeb/4710429f-2786-4311-abd6-0a2d5089ddd8.mp4
+**CURRENT — 15s detail cut (use this one):**
+https://d2ol7oe51mr4n9.cloudfront.net/user_3G3dt4B20P2XbJ6PQqKhDxgXLeb/783160b4-2f30-428e-be76-4ea501356f49.mp4
 
-Subtitle line reads `RATCHET SCREWDRIVER SET` so TikTok's OCR indexes the actual search term.
-The spot has no speech, so it produces no ASR signal — on-screen text and the caption are the
-only keyword signals it emits. See `../SEO-and-hashtags.md`.
+Clean plate for the 15s cut (no text):
+https://d8j0ntlcm91z4.cloudfront.net/user_3G3dt4B20P2XbJ6PQqKhDxgXLeb/hf_20260812_075216_8c7e8f36-3af7-4747-a760-fad15bb62848.mp4
 
-**First cut** (subtitle read `RATCHET + BIT SET` — stylish but not a search term):
-https://d2ol7oe51mr4n9.cloudfront.net/user_3G3dt4B20P2XbJ6PQqKhDxgXLeb/df5bfc20-7356-4001-aaae-0c3b9b4b8f33.mp4
+Format: 9:16, 720×1280, 15.10s, H.264 + AAC. Music bed and impact SFX generated natively.
 
-**Clean plate (no text), if you want to re-cut the copy:**
-https://d8j0ntlcm91z4.cloudfront.net/user_3G3dt4B20P2XbJ6PQqKhDxgXLeb/hf_20260811_145539_bffd535e-22a0-4ed1-8692-9a97658263b7.mp4
+The spot has no speech, so it emits no ASR signal — on-screen text and the caption are its
+only keyword signals. Every text beat is therefore written as a search phrase rather than as
+styling. See `../SEO-and-hashtags.md`.
 
-Format: 9:16, 720×1280, 10.08s, H.264 + AAC. Music bed and impact SFX generated natively.
+### Superseded 10s cuts
+
+- SEO text, 10s: https://d2ol7oe51mr4n9.cloudfront.net/user_3G3dt4B20P2XbJ6PQqKhDxgXLeb/4710429f-2786-4311-abd6-0a2d5089ddd8.mp4
+- First cut, 10s (`RATCHET + BIT SET` subtitle): https://d2ol7oe51mr4n9.cloudfront.net/user_3G3dt4B20P2XbJ6PQqKhDxgXLeb/df5bfc20-7356-4001-aaae-0c3b9b4b8f33.mp4
+- Clean plate, 10s: https://d8j0ntlcm91z4.cloudfront.net/user_3G3dt4B20P2XbJ6PQqKhDxgXLeb/hf_20260811_145539_bffd535e-22a0-4ed1-8692-9a97658263b7.mp4
 
 ## Product
 
@@ -34,16 +37,22 @@ expired promotional price is a false advertised price. On-screen copy uses the s
 No performance, durability, or comparative claims appear anywhere — only the price, the piece
 count, and the shipping term, all read directly off the listing.
 
-## Beat structure (10s, designed to loop)
+## Beat structure (15s, designed to loop)
 
 | Time | Action | On-screen text |
 |---|---|---|
-| 0–2.5s | Case descends in the light column, bits drifting in orbit | `24 IN 1` / `RATCHET SCREWDRIVER SET` |
-| 2.5–5s | Bits streak inward and snap magnetically into the tray | `24 MAGNETIC BITS` / `SNAP INTO PLACE` |
-| 5–7.5s | Ratchet lifts, spins, settles; dust shockwave rings out | — |
-| 7.5–10s | Camera pulls back and orbits to the exact opening framing | `WAS £27.96` / `NOW £12.98` / `SAVE 54%` → `FREE SHIPPING` / `TAP THE YELLOW CART` |
+| 0–2.5s | Open case suspended in the beam, slow rotate, bits in lazy orbit | `24 IN 1` / `RATCHET SCREWDRIVER SET` |
+| 2.5–5.5s | Macro traverse across the tray — collars, knurling, stamped size marks | `24 MAGNETIC BITS` / `PRECISION HAND TOOL KIT` |
+| 5.5–8.5s | All 24 bits lift out in formation and break into an orbiting ring | `PHILLIPS / TORX / HEX / SLOTTED` |
+| 8.5–11s | Bits streak back and snap into their slots in a fast cascade | `DIY HOME REPAIR TOOL KIT` |
+| 11–13s | Ratchet lifts and spins, a bit snaps onto the magnetic tip, extension bars turn | `WAS £27.96` / `NOW £12.98` / `SAVE 54%` |
+| 13–15s | Pull back and orbit to the exact opening framing | `FREE SHIPPING` / `TAP THE YELLOW CART` |
 
 The last frame is composed to match the first, so the clip loops without a visible cut.
+
+Text beats are ordered by search value: what it is → what you get → which bit types →
+what it is for → price → CTA. The bit-type line (`PHILLIPS / TORX / HEX / SLOTTED`) exists
+purely for OCR indexing against high-intent searches.
 
 ## How the text is done
 
@@ -57,9 +66,13 @@ Change the strings in the item list and re-run the burn against the clean plate.
 
 ## Production notes
 
-- Hero keyframe: `seedream_v5_pro`, 9:16 2K, conditioned on the listing's hero image.
-- Motion: `seedance_2_0_mini`, 9:16 720p, 10s, high bitrate, hero frame as `start_image` and
-  the product photo as `image_references`.
-- Cost this spot: ~28 credits (3 image + 25 video). The text pass is free.
+- Hero keyframe: `seedream_v5_pro`, 9:16 2K, conditioned on the listing's hero image. The same
+  keyframe seeds both the 10s and 15s cuts, so the look is identical and it was only paid for once.
+- Motion: `seedance_2_0_mini`, 9:16 720p, high bitrate, hero frame as `start_image` and the
+  product photo as `image_references`. 15s is this model's maximum duration.
+- Cost: 3 credits for the keyframe, 25 for the 10s cut, 37.5 for the 15s cut. Text passes free.
+- Type is measured before burning (`convert … label: info:`) so no line overflows 720px. The
+  price was dropped from 106px to 92px after measuring 707px wide — inside the frame, but far
+  too close to the edge to survive TikTok's safe area.
 - Verified after burn by pixel-delta between the clean plate and the final at each text beat,
-  confirming the copy lands in the intended band at the intended time.
+  confirming every line lands in the intended band at the intended time.
