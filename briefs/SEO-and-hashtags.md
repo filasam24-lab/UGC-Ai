@@ -49,6 +49,10 @@ furniture assembly tool · gifts for him
 **Primary keywords:** portable blender · cordless blender · USB rechargeable blender
 **Secondary:** personal smoothie maker · travel blender · gym blender bottle · protein shake cup
 
+**Listing facts usable on screen and in copy:** £12.86 (was £19.49, −34%) · 4.4★ from 1.7K
+reviews · 25.4K sold · free returns. Note this listing offers **free returns**, not free
+shipping, and ships from overseas — do not reuse the tool set's `FREE SHIPPING` line here.
+
 ### Captions
 
 1. `Portable blender that IS the cup — blend, drink, rinse. No pitcher to wash.`
