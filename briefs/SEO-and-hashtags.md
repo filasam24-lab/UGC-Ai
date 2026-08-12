@@ -67,6 +67,29 @@ shipping, and ships from overseas — do not reuse the tool set's `FREE SHIPPING
 
 ---
 
+## Toaster — Toastley 2-slice smart toaster
+
+**Primary keywords:** smart toaster · touchscreen toaster · 2 slice toaster
+**Secondary:** bagel toaster · gluten free toaster setting · wide slot toaster · stainless steel toaster
+
+**Listing facts usable on screen and in copy:** £41.99 (was £49.99, −16%) · 4.7★ from 201
+reviews · 822 sold · delivered from UK · free returns. `DELIVERED FROM UK` is a genuine trust
+differentiator here — the blender ships from overseas, so that line belongs only to this product.
+
+### Captions
+
+1. `Smart toaster with a touchscreen — bagel, waffle, gluten free, one tap. £41.99 right now.`
+2. `Touchscreen toaster with 6 bread presets. Which setting are you using first?`
+3. `2-slice smart toaster, delivered from the UK 🍞`
+
+### Hashtag sets
+
+- **A** `#TikTokMadeMeBuyIt #SmartToaster #KitchenGadgets #BreakfastIdeas #HomeUpgrade`
+- **B** `#ToasterGoals #TouchscreenToaster #KitchenFinds #GlutenFree #TikTokShopFinds`
+- **C** `#KitchenAesthetic #SmallAppliances #BagelLover #NewHomeEssentials #TikTokMadeMeBuyIt`
+
+---
+
 ## Rules that matter more than the tag list
 
 **Use 4–6 hashtags, not 20.** Stuffing dilutes topical relevance and reads as spam.
