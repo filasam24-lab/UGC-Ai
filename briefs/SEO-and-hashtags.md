@@ -76,6 +76,46 @@ shipping, and ships from overseas — do not reuse the tool set's `FREE SHIPPING
 reviews · 822 sold · delivered from UK · free returns. `DELIVERED FROM UK` is a genuine trust
 differentiator here — the blender ships from overseas, so that line belongs only to this product.
 
+### Listing title
+
+Current: `Toastley 2-Slice Smart Toaster — Touchscreen Toaster, in 3 Colors`
+
+Clean, but it spends the two highest-weighted opening words on a brand with 201 reviews behind
+it — a brand still being built, not yet harvested — and omits every feature buyers actually
+type.
+
+**Recommended** (category first, features by descending search volume, brand retained at the end):
+
+```
+Smart Toaster 2 Slice Touchscreen — 6 Bread Presets Bagel Gluten Free Waffle Muffin Grain,
+6 Shade Levels, Defrost & Reheat, Countdown Timer, Stainless Steel Toaster, 3 Colours | Toastley
+```
+
+**Brand-forward** (use if running brand ads or optimising for repeat customers):
+
+```
+Toastley Smart Toaster 2 Slice — Touchscreen Toaster with 6 Bread Presets (Bagel, Gluten Free,
+Waffle, Muffin, Grain, White), 6 Shade Levels, Defrost, Reheat, Countdown Timer, Removable
+Crumb Tray, Stainless Steel, 3 Colours
+```
+
+**Keyword-max** (matches the blender listing's style — widest net, least readable):
+
+```
+Smart Toaster 2 Slice, Touchscreen Toaster, Bagel Toaster, Gluten Free Toaster, Wide Slot
+Toaster, Stainless Steel Toaster, 6 Shade Settings, Defrost Reheat Cancel, Countdown Timer,
+Removable Crumb Tray, Kitchen Breakfast Appliance, 3 Colours | Toastley
+```
+
+Title rules applied here and worth applying to every listing:
+
+- **No decorative brackets or shipping terms at the front.** The tool-set listing opens
+  `【Free Shipping】`, spending the most heavily weighted characters on glyphs and a term nobody
+  searches.
+- **No price in the title.** £41.99 is a −16% promo; titles outlive promos, and a stale price
+  in a title is worse than none.
+- **"Colours", not "Colors."** Ships from the UK, priced in £, sold to UK buyers.
+
 ### Captions
 
 1. `Smart toaster with a touchscreen — bagel, waffle, gluten free, one tap. £41.99 right now.`
@@ -87,6 +127,10 @@ differentiator here — the blender ships from overseas, so that line belongs on
 - **A** `#TikTokMadeMeBuyIt #SmartToaster #KitchenGadgets #BreakfastIdeas #HomeUpgrade`
 - **B** `#ToasterGoals #TouchscreenToaster #KitchenFinds #GlutenFree #TikTokShopFinds`
 - **C** `#KitchenAesthetic #SmallAppliances #BagelLover #NewHomeEssentials #TikTokMadeMeBuyIt`
+
+Pair set **B** with the 13s detail cut: the video's `BAGEL / GLUTEN FREE / WHITE` beat and
+`#GlutenFree` reinforce each other, and gluten-free is an underserved search for toasters —
+most competing listings never mention it at all.
 
 ---
 
